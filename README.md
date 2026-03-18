@@ -1,5 +1,5 @@
 
-# Myntra Clone
+# Myntra Clone:
 
 
 Tools Required:
