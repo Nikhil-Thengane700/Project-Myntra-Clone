@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: myntra
-        image: nikhilpthengane/myntra-app:2
+        image: nikhilpthengane/myntra-app:3
         ports:
         - containerPort: 3000   # Use port 3000
 
